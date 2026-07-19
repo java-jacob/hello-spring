@@ -1,0 +1,11 @@
+.gradle/
+build/
+.idea/
+*.iml
+*.class
+*.jar
+*.war
+*.log
+*.db
+bin/
+out/
