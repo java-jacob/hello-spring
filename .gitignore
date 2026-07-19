@@ -9,3 +9,4 @@ build/
 *.db
 bin/
 out/
+!gradle/wrapper/gradle-wrapper.jar
